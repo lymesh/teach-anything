@@ -7,7 +7,7 @@ export default function Header() {
     <header className="md:flex text-center justify-between items-center w-full mt-5 pb-7 sm:px-4 px-2">
       <Link href="/" className="flex space-x-3 mb-10 md:mb-0 justify-center">
         <h1 className="sm:text-4xl text-2xl font-bold ml-2 tracking-tight">
-         🧑🏼‍🏫 Teach Anything
+         🧑🏼‍🏫 教会你任何事情！探索分享
         </h1>
       </Link>
       <div>
@@ -21,7 +21,7 @@ export default function Header() {
             <Github />
             <p>Star on GitHub</p>
           </a>
-          <a href="https://www.buymeacoffee.com/lvwzhen" target="_blank"><img className="h-[38px]" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" /></a>
+
         </div>
       </div>
       
